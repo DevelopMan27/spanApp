@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176690350990",
+    "project_id": "span-afcaa",
+    "storage_bucket": "span-afcaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176690350990:android:48aa26a37feb6c853a72df",
+        "android_client_info": {
+          "package_name": "com.span.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv2TDpHVTKR1LLj0du9iiZ7I1MfvU6Qk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

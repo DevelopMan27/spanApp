@@ -1,0 +1,67 @@
+# ninja log v5
+1	6582	1721027518570930401	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+6585	7066	1721027519010473789	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	6304	1721035768545007031	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+6305	6766	1721035768955932413	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	5310	1721036308088729689	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5311	5811	1721036308488280029	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	4945	1721036554234495674	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4945	5148	1721036554400261392	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	4743	1721036786761280785	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4743	4943	1721036786933073990	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	5650	1721037496904284507	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5650	6092	1721037497301762935	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	5041	1721037725800051690	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5041	5249	1721037725972549365	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	5020	1721038434349650037	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5020	5217	1721038434516625716	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	5543	1721038794151628670	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5543	5986	1721038794540383508	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	5140	1721038979963599018	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5140	5359	1721038980139658926	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	6473	1721039317161558517	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+6474	6977	1721039317602048158	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	5097	1721039557301646508	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5097	5346	1721039557501981150	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+3	4205	1721040239979941270	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4205	4433	1721040240176476495	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	5605	1721040410189139937	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5606	6094	1721040410629277566	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	5574	1721040560633596764	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5575	6098	1721040561036362682	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	7014	1721041003180150948	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+7015	7557	1721041003678644706	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	4922	1721041511764065409	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4922	5302	1721041512118755090	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	5465	1721041684140965329	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+5465	5903	1721041684531850006	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	6243	1721042192060735714	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+6243	6917	1721042192677346876	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	4871	1721042801235053292	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4873	5272	1721042801613769290	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	4277	1721042943291139180	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4277	4443	1721042943436970101	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	4134	1721043363590799051	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4134	4307	1721043363750650006	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	4247	1721043502345107182	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4248	4411	1721043502487521906	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	4730	1721044045214598467	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4731	5145	1721044045600781804	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	7424	1721045335570559728	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+7424	7958	1721045336041995337	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	13310	1721046067022787833	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+13311	14120	1721046067745736171	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	10323	1721046976301078948	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+10324	10923	1721046976867014804	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	4719	1721048035090046009	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+4719	5083	1721048035418148050	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+3	10601	1721048241498266627	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+10601	11578	1721048242359721529	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+2	9588	1721048471034955966	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+9588	10273	1721048471616982713	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+3	10776	1721048912228123206	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+10777	11488	1721048912839450705	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+3	7787	1721049328387790275	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+7788	8335	1721049328874264988	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69
+1	12552	1721049672362224080	CMakeFiles/MyNativeModule.dir/MyNativeModule.cpp.o	74434d3931891659
+12553	13309	1721049673007061974	/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/Debug/345n5z36/obj/arm64-v8a/libMyNativeModule.so	a3dc0b6aa83dbd69

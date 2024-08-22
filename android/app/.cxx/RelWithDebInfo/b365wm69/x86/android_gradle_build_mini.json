@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/apple/Downloads/Archive (1)/android/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/apple/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/apple/Downloads/Archive (1)/android/app/.cxx/RelWithDebInfo/b365wm69/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/apple/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/apple/Downloads/Archive (1)/android/app/.cxx/RelWithDebInfo/b365wm69/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "MyNativeModule::@6890427a1f51a3e7e1df": {
+      "artifactName": "MyNativeModule",
+      "abi": "x86",
+      "output": "/Users/apple/Downloads/Archive (1)/android/app/build/intermediates/cxx/RelWithDebInfo/b365wm69/obj/x86/libMyNativeModule.so",
+      "runtimeFiles": []
+    }
+  }
+}
